@@ -43,13 +43,13 @@ NGO_Dashboard/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/TrishaM77/NGO_Dashboard.git
+git clone https://github.com/TrishaM77/FundNexus_Dashboard.git
 ```
 
 2. Open the project folder
 
 ```bash
-cd NGO_Dashboard
+cd FundNexus_Dashboard
 ```
 
 3. Install the required libraries
