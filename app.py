@@ -1,5 +1,3 @@
-from turtle import left
-
 import streamlit as st # type: ignore
 import pandas as pd # type: ignore
 import plotly.graph_objects as go # type: ignore
