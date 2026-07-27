@@ -36,7 +36,6 @@ if sheet_id:
 else:
     st.warning("Please enter the Google Sheet ID.")
     st.stop()
-df = pd.read_csv(url)
 df["Call Date"] = pd.to_datetime(df["Call Date"], errors="coerce")
 
 df["Follow Up Date"] = pd.to_datetime(
